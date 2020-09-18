@@ -20,6 +20,6 @@ Android Studio offers support for compiling projects for both android and IOS sy
 ## Required Resources
 - Group members will need to be proficient in Java and capable of contributing to a Test-Driven, Object-Oriented Design. 
 - Experience with Android Studio or other mobile app software development kits would be helpful.
-- Familarity with Graphical User Interface (GUI) development would be beneficial.
+- Familiarity with Graphical User Interface (GUI) development would be beneficial.
 - Experience with the Google Maps API or other location services APIs would be preferred.
-- Access to at least one smart phone will be required in order to test the app in its intended environment. Access to at least one android phone and one IOS phone is preferred.
+- Access to at least one smartphone will be required in order to test the app in its intended environment. Access to at least one android phone and one IOS phone is preferred.
