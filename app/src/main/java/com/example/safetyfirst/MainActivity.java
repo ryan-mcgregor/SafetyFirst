@@ -1,5 +1,7 @@
 package com.example.safetyfirst;
 
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
@@ -52,5 +54,11 @@ public class MainActivity extends AppCompatActivity {
         }
 
         return super.onOptionsItemSelected(item);
+    }
+
+    // getting location
+    public void openLocationLink() {
+        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://maps.google.com/maps?saddr=My+Location"));
+        startActivity(browserIntent);
     }
 }
