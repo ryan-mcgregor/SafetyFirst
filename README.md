@@ -17,6 +17,8 @@ https://github.com/ryan-mcgregor/SafetyFirst
 ### Building and Running
 Android Studio offers support for compiling projects for both android and IOS systems. Therefore, Android Studio, or a similar Software Development Kit, will need to be used to compile the app to a .apk (for Android) or a .ipa (for IOS) format. The app will then need to be deployed to an Android or IOS phone (possibly through Google Play or the App Store) in order to be run in its intended environment.
 
+To run, clone the repository linked above, and install an emulated phone device at the top of Android Studio. Ensure that "app" and your chosen Android device emulator are selected at the top, and you will be able to click the run button. This will open a window of an emulated Android phone that is running the SafetyFirst app.
+
 ## Required Resources
 - Group members will need to be proficient in Java and capable of contributing to a Test-Driven, Object-Oriented Design. 
 - Experience with Android Studio or other mobile app software development kits would be helpful.
